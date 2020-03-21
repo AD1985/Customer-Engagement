@@ -19,8 +19,8 @@ financial services industry.
 Please refer to [Transaction Exploration](https://github.com/AD1985/Customer-Engagement/blob/master/TransactionsExploration.ipynb) notebook for understanding the exploratory analysis and/or go to [Modelling](https://github.com/AD1985/Customer-Engagement/blob/master/Modelling.ipynb) notebook to 
 look into various algorithms being tried to build a good classifier. 
 
-People not interested in code can directly jump on to the html files (TransactionExploration and Modelling) just to have gist of all the 
-completed work.
+If you are not interested in codes, please download the html files (TransactionExploration and Modelling) to have a gist of all the 
+work done.
 
 Happy coding and Enjoy Data Science!
 
