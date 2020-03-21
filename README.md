@@ -16,7 +16,7 @@ then be used to create features for modelling the engaged users.
 This was a very interesting problem to work on and I hope this repository can work as a good reference for people aiming to work in 
 financial services industry.
 
-Please refer to Transaction Exploration Notebook for understanding the exploratory analysis and/or go to Modelling Notebook to 
+Please refer to <Transaction Exploration Notebook>(https://github.com/AD1985/Customer-Engagement/blob/master/TransactionsExploration.ipynb) for understanding the exploratory analysis and/or go to <Modelling Notebook>(https://github.com/AD1985/Customer-Engagement/blob/master/Modelling.ipynb) to 
 look into various algorithms being tried to build a good classifier. 
 
 People not interested in code can directly jump on to the html files (TransactionExploration and Modelling) just to have gist of all the 
