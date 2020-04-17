@@ -25,7 +25,7 @@ work done.
 Some interesting plots from the analysis are:
 
 **Increasing Transaction Volume
-!(https://github.com/AD1985/Customer-Engagement/blob/master/Trend-Completed%20Transactions.PNG)
+!(Trend-Completed%20Transactions.PNG)
 
 
 Happy coding and Enjoy Data Science!
