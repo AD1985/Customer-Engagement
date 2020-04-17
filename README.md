@@ -22,6 +22,12 @@ look into various algorithms being tried to build a good classifier.
 If you are not interested in codes, please download the html files (TransactionExploration and Modelling) to have a gist of all the 
 work done.
 
+Some interesting plots from the analysis are:
+
+**Increasing Transaction Volume
+!(https://github.com/AD1985/Customer-Engagement/blob/master/Trend-Completed%20Transactions.PNG)
+
+
 Happy coding and Enjoy Data Science!
 
 
