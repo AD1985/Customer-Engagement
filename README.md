@@ -24,8 +24,17 @@ work done.
 
 Some interesting plots from the analysis are:
 
-**Increasing Transaction Volume
+**Increasing Transaction Volume**
 ![](Trend-Completed%20Transactions.PNG)
+
+**Avg. Amount Trend across transaction types**
+![](Trend-Transaction_Amount_across_types.PNG)
+
+**Transaction Rates across transaction types**
+![](Trend-Transaction_Rates_Across_Types.PNG)
+
+**Fall in New user acquistion rate**
+![](Faaling-New_Users_acquisition_rate.PNG)
 
 
 Happy coding and Enjoy Data Science!
